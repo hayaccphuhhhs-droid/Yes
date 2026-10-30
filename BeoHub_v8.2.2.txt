@@ -29,7 +29,7 @@ task.delay(1.2, function()
     pcall(function()
         sg:SetCore("SendNotification", {
             Title = "BeoHub v8.2.1",
-            Text = "Mos-style Basic Bait equip",
+            Text = "Script loader🤑🔥",
             Icon = "rbxassetid://12053823591",
             Duration = 4,
         })
